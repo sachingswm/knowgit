@@ -5,4 +5,8 @@ public class Cal{
         int a = sc.nextInt();
         int b = sc.nextInt();
     }
+    private static int add(int a,int b)
+    {
+        return a+b;
+    }
 }
