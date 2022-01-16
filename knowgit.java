@@ -5,4 +5,8 @@ public class Cal{
         int a = sc.nextInt();
         int b = sc.nextInt();
     }
+    public static int sub(int a,int b)
+    {
+        return a-b;
+    }
 }
